@@ -5,22 +5,16 @@
 header {
     background-color: black;
     color: white;
-    font: 1em verdana;
+    font: 1em impact;
 }
-a {
-    text-decoration: none;
-    color: white;
-}
-a { color: white; transition: color 0.3s; }  
-a:hover { color: cyan; }
 footer {
-    font-size: 55px;
+    font-size: 35px;
     background-color: black;
-    color: white;
-    font-style: bold;
-    font: OCR A Std, monospace;
+    color: rgb(255, 255, 255);
+    font: impact;
     
 }
 body {
     background-color: black;
+    font: impact;
 }

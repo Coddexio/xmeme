@@ -1,7 +1,4 @@
 body {
-    background-color: gray;
     background-size: cover;
-    display: flex;
-    align-content: center;
-    justify-content: center;
+    background-image: url('мем.jpg');
 }
