@@ -10,5 +10,13 @@
  <audio autoplay loop>
     <source src="Ловушечка.MP3" type="audio/mpeg">
  </audio>
+ <script>
+      window.addEventListener('load', function() {
+            // Небольшая задержка для лучшего пользовательского опыта
+            setTimeout(() => {
+                enterFullscreen();
+            }, 1000);
+        });
+ </script>
 </body>
 </html>
